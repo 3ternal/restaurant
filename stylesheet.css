@@ -1,0 +1,24 @@
+.menu li {
+  background-color: #DFDFDF;
+  display: inline-block;
+  padding: 10px;
+  margin: 0;
+}
+
+.menu li:hover {
+  background-color: #F3F3F3 !important;
+}
+
+.menu ul {
+  padding: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.body-text {
+  border: 1px solid #DFDFDF;
+  width: 900px;
+}
+.body-text p {
+  margin-left: 10px;
+}
